@@ -1,6 +1,10 @@
 {
 	"pack": {
-		"pack_format": 61,
-		"description": "Makes it so all leaves have the same drop percentage for their sapling as other leaves. Created by RandomGgames"
+		"description": "Makes it so all leaves have the same drop percentage for their sapling as other leaves. Created by RandomGgames.",
+		"pack_format": 88,
+		"supported_formats": [
+			48,
+			88
+		]
 	}
 }
